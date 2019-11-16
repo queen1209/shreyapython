@@ -2,9 +2,9 @@
 
 Pick your weapon and play against the computer - you'll only get a virtual sting if you lose!
 
-Prerequisites: All you need is [python](python3) to play.
+Prerequisites: All you need is [python3](python3) to play.
 
-Clone the project, navigate to the correct directory, - c```d directory name``` - and run the ```game.py ```file in a Python Terminal window for macOS/Linux.
+Clone the project, navigate to the correct directory, - ```cd directory name``` - and run the ```game.py ```file in a Python Terminal window for macOS/Linux.
 
 The rules are the same as the classic game:
 1. Paper covers Rock
